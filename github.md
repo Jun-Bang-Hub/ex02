@@ -43,3 +43,10 @@ git clone https://github.com/Jun-Bang-Hub/ex02.git
 입력하면 GitHub에 존재하는 리포지토리에 연결됨
 
 https://github.com/Jun-Bang-Hub/ex02.git
+
+다시 연결
+git remote add origin [주소]
+
+설정 잘못됨?
+git remote -v (현재 주소 뜸)
+git remote remove origin
