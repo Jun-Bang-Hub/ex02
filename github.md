@@ -38,4 +38,8 @@ git pull origin main
 git push -u origin main
 ```
 
+원하는 폴더에서 cmd 창 켜서
+git clone https://github.com/Jun-Bang-Hub/ex02.git
+입력하면 GitHub에 존재하는 리포지토리에 연결됨
+
 https://github.com/Jun-Bang-Hub/ex02.git
